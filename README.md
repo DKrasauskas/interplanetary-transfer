@@ -5,11 +5,11 @@ Orbital determination from two state vectors and transit time is known as Lamber
 Transfers are implemented using a universal Lambert solver. 
 
 Controls :
-F -> unpause time
-R -> Pause time
-1, 2, 3, 4 -> choose transfer destination planet
+F -> unpause time, 
+R -> Pause time,
+1, 2, 3, 4 -> choose transfer destination planet,
 
 Movement:
-Q, E -> rotate camera axis
-mouse -> look around
-W, A, S, D -> move
+Q, E -> rotate camera axis,
+mouse -> look around,
+W, A, S, D -> move,
