@@ -1,6 +1,8 @@
 ###############################################################################
 # Set default behavior to automatically normalize line endings.
 ###############################################################################
+TransferOrbits/include/** linguist-vendored
+TransferOrbits/lib/** linguist-vendored
 * text=auto
 
 ###############################################################################
